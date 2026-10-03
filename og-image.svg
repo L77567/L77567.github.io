@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Liao Kerui — Visual Communication</title>
+  <desc id="desc">Neutral typographic placeholder for the portfolio social preview.</desc>
+  <rect width="1200" height="630" fill="#f2f0ea" />
+  <rect x="52" y="52" width="1096" height="526" fill="none" stroke="#d3d0c7" />
+  <text x="80" y="118" fill="#686760" font-family="monospace" font-size="18" letter-spacing="4">VISUAL COMMUNICATION</text>
+  <text x="74" y="350" fill="#12120f" font-family="Georgia, serif" font-size="122" letter-spacing="-6">LIAO KERUI</text>
+  <text x="80" y="535" fill="#686760" font-family="monospace" font-size="16" letter-spacing="3">GRAPHIC / 3D / MOTION</text>
+</svg>
